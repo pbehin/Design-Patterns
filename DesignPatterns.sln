@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{0F71B567-0664-41BE-8209-C03DDACCE32C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{7C218955-AB81-443B-A7E9-B6304E953D39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{7C218955-AB81-443B-A7E9-B6304E953D39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempleteMethod", "TempleteMethod\TempleteMethod.csproj", "{05C18127-D9C2-4BD0-897D-6EB375E953DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempleteMethod", "TempleteMethod\TempleteMethod.csproj", "{05C18127-D9C2-4BD0-897D-6EB375E953DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{0B62DB42-8518-419A-B65A-94BD5EFF461C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{05C18127-D9C2-4BD0-897D-6EB375E953DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05C18127-D9C2-4BD0-897D-6EB375E953DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05C18127-D9C2-4BD0-897D-6EB375E953DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B62DB42-8518-419A-B65A-94BD5EFF461C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B62DB42-8518-419A-B65A-94BD5EFF461C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B62DB42-8518-419A-B65A-94BD5EFF461C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B62DB42-8518-419A-B65A-94BD5EFF461C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
